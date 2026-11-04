@@ -277,6 +277,11 @@ export const cvData: CVData = {
       period: "Mar 2024 – Sep 2026"
     },
     {
+      degree: "Curso de Python Profesional",
+      institution: "Código Facilito",
+      period: "Oct 2026"
+    },
+    {
       degree: "Excel Avanzado & Fundamentos de Power BI",
       institution: "CET Colsubsidio",
       period: "Dic 2025 – Ene 2026"
@@ -363,6 +368,7 @@ export const cvData: CVData = {
     }
   ],
   certifications: [
+    { year: "2026", title: "Curso de Python Profesional", issuer: "Código Facilito" },
     { year: "2026", title: "¿Por qué realizar pruebas de software?", issuer: "Ubits" },
     { year: "2026", title: "Valida la lógica de tu código con pruebas unitarias", issuer: "Ubits" },
     { year: "2026", title: "Certificado de Asistencia — Jornadas de Data Science con IA", issuer: "BIG School" },
